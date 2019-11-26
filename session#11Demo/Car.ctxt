@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ (Rana)\r\n\ @version\ (2017)\r\n
+comment1.params=
+comment1.target=Car()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car\r\n
+comment2.params=brand\ year
+comment2.target=Car(java.lang.String,\ int)
+comment2.text=\r\n\ Car\ Constructor\r\n\r\n\ @param\ brand\ A\ parameter\ to\ set\ brand\ name\r\n\ @param\ year\ A\ parameter\ to\ set\ year\ made\r\n
+comment3.params=
+comment3.target=java.lang.String\ getBrandName()
+comment3.text=\r\n\ Method\ getBrandName\r\n\r\n\ @return\ The\ return\ value\ of\ brand\ name\r\n
+comment4.params=
+comment4.target=int\ getYearMade()
+comment4.text=\r\n\ Method\ getYearMade\r\n\r\n\ @return\ The\ return\ value\ or\ year\ made\r\n
+comment5.params=inputBrand
+comment5.target=void\ setBrandName(java.lang.String)
+comment5.text=\r\n\ Method\ setBrandName\r\n\r\n\ @param\ inputBrand\ A\ parameter\ to\ set\ brand\ name\r\n
+comment6.params=inputYear
+comment6.target=void\ setYearMade(int)
+comment6.text=\r\n\ Method\ setYearMade\r\n\r\n\ @param\ inputYear\ A\ parameter\ to\ set\ year\ made\r\n
+comment7.params=
+comment7.target=void\ displayDetails()
+comment7.text=\r\n\ Method\ displayDetails\ to\ display\ the\ object\ fields\r\n\ values\ on\ the\ console\r\n\r\n
+numComments=8

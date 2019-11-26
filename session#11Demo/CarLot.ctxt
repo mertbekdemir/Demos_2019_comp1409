@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CarLot
+comment1.params=
+comment1.target=CarLot()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CarLot\r\n
+comment2.params=toAdd
+comment2.target=void\ addCar(Car)
+comment2.text=\r\n\ Method\ AddCar\r\n\r\n\ @param\ toAdd\ A\ parameter\ to\ add\ a\ Car\ object\ to\ the\ arrayList\r\n
+comment3.params=
+comment3.target=void\ displayCars()
+comment3.text=\r\n\ Method\ displayCars\ using\ an\ iterator\r\n\r\n
+comment4.params=brand
+comment4.target=void\ removeCar(java.lang.String)
+comment4.text=\r\n\ Method\ removeCar\r\n\r\n\ @param\ brand\ A\ parameter\ used\ to\ search\ the\ collection\ and\ remove\r\n\ cars\ with\ the\ given\ brand\r\n
+comment5.params=
+comment5.target=void\ loadCarLot()
+comment5.text=\r\n\ Method\ loadCarLot\r\n\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Method\ main\r\n\r\n\ @param\ args\ A\ parameter\r\n
+numComments=7
