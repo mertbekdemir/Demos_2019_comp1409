@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DemoStatic()
+comment1.params=
+comment1.target=int\ getCount()
+comment1.text=\r\n\ static\ methods\ access\ static\ variables\ and\r\n\ cannot\ access\ non-static\ variables\r\n
+comment2.params=
+comment2.target=void\ printCount()
+comment2.text=\r\n\ non-static\ methods\ can\ access\ \r\n\ static\ and\ non-static\ variables\r\n
+numComments=3

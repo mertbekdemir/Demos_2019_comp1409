@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArrayDemo
+comment0.text=\r\n\ @author\ (Rana)\r\n\ @version\ (09/2017)\r\n
+comment1.params=
+comment1.target=ArrayDemo()
+comment2.params=
+comment2.target=void\ loadBookArray()
+comment3.params=
+comment3.target=void\ loadIntArray()
+comment3.text=\r\n\ Load\ int\ array\ using\ while\ loop\ with\ the\ index\ multiplied\ by\ 2\ values\ \r\n
+comment4.params=
+comment4.target=void\ displayBookArray()
+comment4.text=\r\n\ Method\ displayArrays\r\n\ to\ display\ the\ title\ of\ every\ book\ in\ booksArray\ \r\n
+comment5.params=
+comment5.target=void\ displayIntArray()
+comment5.text=\r\n\ Method\ displayIntArray\ in\ the\ format\ the\ number\ in\ position\ x\ is\ y\r\n\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

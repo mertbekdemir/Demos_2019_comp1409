@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Apps\Java7u25(x64)\JDK\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Apps\BlueJ\lib\bluejcore.jar;C:\Apps\BlueJ\lib\junit-4.8.2.jar;G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2
+-d
+G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Apps\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\Driver.java
+<---- end of javadoc command ---->
+Loading source file G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\Driver.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_25
+Building tree for all the packages and classes...
+Generating G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\doc\Driver.html...
+G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\Driver.java:104: warning - @param argument "newDriverStanding" is not a parameter name.
+Generating G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\doc\package-frame.html...
+Generating G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\doc\package-summary.html...
+Generating G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\doc\allclasses-frame.html...
+Generating G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\doc\allclasses-noframe.html...
+Generating G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\doc\index.html...
+Generating G:\1409\2013 lab solutions & demos\1409 week 6\demo creating objects v2\doc\stylesheet.css...
+1 warning
